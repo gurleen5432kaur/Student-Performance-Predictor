@@ -35,7 +35,6 @@ Student-Performance-Predictor
 ```
 
 ## 👩‍💻 Author
-Gurleen Kaur Dhillon
 
 **Gurleen Kaur Dhillon**
 
